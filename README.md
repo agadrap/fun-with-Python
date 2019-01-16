@@ -1,4 +1,4 @@
-# This are programs for training
+# These are programs for training
 
 1. Binary / Decimal Converter
 2. Black Jack game
